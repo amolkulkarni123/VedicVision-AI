@@ -1,0 +1,10 @@
+{
+  "name": "VedicVision AI",
+  "description": "Premium AI-powered Vedic Astrology platform featuring Kundali generation, Matchmaking, Palmistry analysis, and personalized horoscopes using Google Gemini 2.0.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
